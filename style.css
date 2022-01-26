@@ -22,3 +22,7 @@ footer{
     background-color: #0B0D17;
     padding: 5rem 0px;
 }
+
+.custom-value{
+    left: 83%!important;
+}
